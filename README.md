@@ -1,0 +1,1 @@
+# dns-force-safe-search
